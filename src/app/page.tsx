@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Hello nextjs world test vercel change!</h1>
+      <h1>trigger vercel change</h1>
     </div>
   );
 }
